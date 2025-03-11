@@ -26,7 +26,7 @@ such as books borrowed by a user, books available in the library, etc. It could 
 reports in a printable format or export them to a file.
 
 
-CONCLUSION/RESULT
+# CONCLUSION/RESULT
 
 The Library Management System project developed in C++ is a comprehensive and
 user-friendly system that enables librarians to manage books, and students to access and
