@@ -6,7 +6,7 @@ The Library Management System is a software solution that automates the processe
 
 The system should allow users to search for books, place requests, check book availability, and borrow books. It should also provide staff with the ability to manage books, members. Overall, the system should be user-friendly, secure, and scalable to accommodate future growth. The Library Management System project aims to develop and implement a comprehensive software solution that will enhance the efficiency of the library operations and improve the user experience for both staff and users.
 
-MODULE DESCRIPTION
+# MODULE DESCRIPTION
 
 The modules for the Library Management System project could be:
 Book class: This module defines the Book class and its properties such as title, author,
