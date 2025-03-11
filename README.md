@@ -43,6 +43,9 @@ returned on time and the system maintains accurate records. Overall, the Library
 System project in C++ is an effective tool for managing library resources and promoting
 efficient operations.
 
+# OUTPUT
+
+
 ![Screenshot 2025-03-03 002445](https://github.com/user-attachments/assets/1edd136e-1d36-4ce7-833b-92f5cd73d0ab)
 ![Screenshot 2025-03-03 002458](https://github.com/user-attachments/assets/6c36a3d7-dd82-4305-b89f-5ec4141b5ec4)
 
