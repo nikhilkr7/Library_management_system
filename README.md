@@ -19,7 +19,7 @@ borrow a book, and return a book.
 * User interface: This module provides the user interface for the library management system. It
 interacts with the user and calls the appropriate methods of the Library class based on the
 user's input.
-Database: This module could be used to store and manage the data of the Library system, such
+* Database: This module could be used to store and manage the data of the Library system, such
 as book information and user information. It could use a database management system or
 file-based storage to manage the data.
 Reporting: This module could generate various reports based on the data stored in the system,
