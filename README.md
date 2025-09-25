@@ -16,7 +16,7 @@ properties.
 * Library class: This module defines the Library class and its properties such as a vector of
 Book objects. It provides methods to add a book to the library, search for a book by title,
 borrow a book, and return a book.
-User interface: This module provides the user interface for the library management system. It
+* User interface: This module provides the user interface for the library management system. It
 interacts with the user and calls the appropriate methods of the Library class based on the
 user's input.
 Database: This module could be used to store and manage the data of the Library system, such
