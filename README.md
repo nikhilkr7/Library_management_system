@@ -29,7 +29,7 @@ reports in a printable format or export them to a file.
 
 ## CONCLUSION/RESULT
 
-The Library Management System project developed in C++ is a comprehensive and
+* The Library Management System project developed in C++ is a comprehensive and
 user-friendly system that enables librarians to manage books, and students to access and
 borrow books from the library. With separate logins for librarians and students, the system
 provides a secure environment for managing library resources. The librarian has full control
