@@ -37,7 +37,7 @@ over the system, including adding, updating, deleting, and creating books, assig
 students, changing the password, and modifying books. The use of file handling to store data
 ensures that the system can manage large volumes of books efficiently.
 
-In addition, the system enables students to view the available books in the library and access
+* In addition, the system enables students to view the available books in the library and access
 information about the books, including which books are currently on loan. Reissuing and
 returning books are also essential features of this system, which ensures that the books are
 returned on time and the system maintains accurate records. Overall, the Library Management
