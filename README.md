@@ -10,7 +10,7 @@
 
 ### The modules for the Library Management System project could be:
 
-* Book class: This module defines the Book class and its properties such as title, author,
+* <u>Book class:</u> This module defines the Book class and its properties such as title, author,
 publisher, year, and stock. It also provides methods to create a Book object and access its
 properties.
 * Library class: This module defines the Library class and its properties such as a vector of
