@@ -22,7 +22,7 @@ user's input.
 * Database: This module could be used to store and manage the data of the Library system, such
 as book information and user information. It could use a database management system or
 file-based storage to manage the data.
-Reporting: This module could generate various reports based on the data stored in the system,
+* Reporting: This module could generate various reports based on the data stored in the system,
 such as books borrowed by a user, books available in the library, etc. It could provide these
 reports in a printable format or export them to a file.
 
